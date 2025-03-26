@@ -1,3 +1,9 @@
+/*
+ * Smart Traffic Light Simulation
+ * Author: Ryan Maina
+ * Service Number: 228164
+ */
+
 #include <stdio.h>
 #include <unistd.h> // For sleep function
 
